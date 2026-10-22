@@ -1,10 +1,11 @@
-# GrainScale
-reloading and load data management app
-First test release.
+# Grain Scale
 
-**Install:** download `GrainScale-Setup-0.9.1.0.exe` below and run it. No .NET install is needed.
-If Windows shows "Windows protected your PC", click **More info → Run anyway**.
+Reloading and load data management app for Windows.
 
-**New in 0.9.1**
-- Group Analysis: drag the photo to pan, and crop the photo to the group.
-- The app remembers which database you opened.
+## Download
+Get the latest installer from **[Releases](../../releases/latest)**.
+
+If Windows shows "Windows protected your PC", click **More info → Run anyway**
+(the installer isn't code-signed).
+
+Your data is kept in `Documents\GrainScale` and is never touched by installing, upgrading or uninstalling.
